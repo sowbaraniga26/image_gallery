@@ -1,2 +1,2 @@
 # image_gallery
- ![image](rowwiseimagegallery/create.png)
+ ![image](screenshot/create.png)
