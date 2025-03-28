@@ -1,2 +1,2 @@
 # image_gallery
- ![image](scrollableimagegallery/create.png)
+ ![image](rowwiseimagegallery/create.png)
